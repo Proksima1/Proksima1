@@ -1,16 +1,64 @@
-### Hi there 👋
+<table>
+<tr> 
+<td width="550">
+<h1>About me</h1>
 
-<!--
-**Proksima1/Proksima1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Currently studying in MAI at 1st course of Informatics and applied mathematics
+- Truly like tennis 🎾
+</td>
+<td>
+   <h2> Connect with me </h2>
+   
+   [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Proksima1)
+   
+</td>
+</tr>
+</table>
+<table>
 
-Here are some ideas to get you started:
+<td>
+  <tr>
+      <td> Languages </td>
+      <td>
+          <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" width="70"/>&nbsp;
+      </td>
+      <td>
+          <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" width="70"/>&nbsp;
+      </td>
+  </tr>
+  <tr>
+      <td> Tools </td>
+      <td>
+           <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" width="70"/>&nbsp;
+      </td>
+      <td>
+           <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" width="70"/>&nbsp;
+      </td>
+      <td>
+           <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" title="Redis" width="70"/>&nbsp;
+      </td>
+      <td>
+           <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" width="70"/>&nbsp;
+      </td>
+      <td> 
+           <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original-wordmark.svg" title="Swagger" width="70"/>&nbsp;
+      </td>
+  </tr>
+  <tr>
+      <td> OS </td>
+      <td>
+           <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" width="70"/>&nbsp;
+      </td>
+      <td>
+           <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original-wordmark.svg" title="Windows" width="70"/>&nbsp;
+      </td>
+  </tr>
+</table>
+<div>
+   
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=proksima1&layout=pie&theme=dark)
+</div>
+<div> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   ![Proksima's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=proksima1&theme=xcode)
+</div> 
