@@ -3,7 +3,7 @@
 <td width="550">
 <h1>About me</h1>
 
-- Currently studying in MAI at 1st course of Informatics and applied mathematics
+- Currently studying in MAI at 2st course of Informatics and applied mathematics
 - Truly like tennis 🎾
 </td>
 <td>
