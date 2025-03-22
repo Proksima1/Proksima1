@@ -3,7 +3,8 @@
 <td width="550">
 <h1>About me</h1>
 
-- Currently studying in MAI at 2st course of Informatics and applied mathematics
+- Currently studying in MAI at 2st course of Informatics and Applied Mathematics
+- Currently working at MTS 
 - Truly like tennis 🎾
 </td>
 <td>
@@ -38,10 +39,13 @@
            <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" title="Redis" width="70"/>&nbsp;
       </td>
       <td>
-           <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" width="70"/>&nbsp;
+           <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-plain-wordmark.svg" title="FastAPI" width="70"/>&nbsp;
       </td>
       <td> 
            <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original-wordmark.svg" title="Swagger" width="70"/>&nbsp;
+      </td>
+     <td> 
+           <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" title="Sqlalchemy" width="70"/>&nbsp;
       </td>
   </tr>
   <tr>
