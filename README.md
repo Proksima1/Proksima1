@@ -4,7 +4,7 @@
 <h1>About me</h1>
 
 - Currently studying in MAI at 2st course of Informatics and Applied Mathematics
-- Currently working at MTS 
+- Working at MTS 
 - Truly like tennis 🎾
 </td>
 <td>
